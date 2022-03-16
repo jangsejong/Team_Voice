@@ -36,7 +36,8 @@ encode() : token string을 token id 의 리스트로 변환한다. add_special_t
 padding을 통해서 padding token을 어떻게 추가할지도 지정할 수 있다.
 '''
 
-koGPT2_TOKENIZER = PreTrainedTokenizerFast.from_pretrained("skt/kogpt2-base-v2", bos_token=BOS, eos_token=EOS, unk_token="<unk>", pad_token=PAD, mask_token=MASK,)
+koGPT2_TOKENIZER = PreTrainedTokenizerFast.from_pretrained("skt/kogpt2-base-v2", 
+                                                           bos_token=BOS, eos_token=EOS, unk_token="<unk>", pad_token=PAD, mask_token=MASK,)
 model = GPT2LMHeadModel.from_pretrained('skt/kogpt2-base-v2')
 path = 'C:\\Users\\bitcamp\\Desktop\\TP\\' 
 
