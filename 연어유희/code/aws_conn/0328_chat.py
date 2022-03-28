@@ -168,9 +168,11 @@ print ("학습 종료")
 import aws_sql
 sent = '0'
 with torch.no_grad():
+    import mic_stt
     while 1:
-        q = input("나 >> ").strip()   # 인자로 전달된 문자를 String의 왼쪽과 오른쪽에서 제거합니다.
-        if q == "quit":  
+        q = mic_stt.say_anything()
+        # q = input("나 >> ").strip()   # 인자로 전달된 문자를 String의 왼쪽과 오른쪽에서 제거합니다.
+        if q == "종료":  
             break
         a = ""
         while 1:
