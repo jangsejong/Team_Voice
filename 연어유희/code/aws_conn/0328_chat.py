@@ -165,10 +165,18 @@ for epoch in range(epoch):
         optimizer.step() # step : 학습
 print ("학습 종료")
 #####################################
-import aws_sql
+import aws_sql #aws 연결하는 모듈
+import mic_stt #mic 연결하는 모듈
+from gtts import gTTS 
+'''
+pip install pipwin
+pipwin install pyaudio
+pip install gTTS
+'''
+ 
 sent = '0'
 with torch.no_grad():
-    import mic_stt
+    
     while 1:
         q = mic_stt.say_anything()
         # q = input("나 >> ").strip()   # 인자로 전달된 문자를 String의 왼쪽과 오른쪽에서 제거합니다.
@@ -187,7 +195,7 @@ with torch.no_grad():
         print("유희지희 > {}".format(a.strip()))
         
         ## tts 출력 ##
-        from gtts import gTTS       
+             
         tts = gTTS(text=a, lang='ko')
         tts.save("tts_answer.mp3")
         import playsound
