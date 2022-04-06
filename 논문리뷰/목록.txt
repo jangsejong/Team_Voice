@@ -1,4 +1,4 @@
 1. 어텐션 이즈 올 유 니드
 2. faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks-Paper
-트랜스포머 캔들 생성
-T F T
+3. 트랜스포머 캔들 생성
+4. T F T
