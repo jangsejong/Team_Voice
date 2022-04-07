@@ -9,3 +9,4 @@
 
 디텍션 설명 https://deepbaksuvision.github.io/Modu_ObjectDetection/
 욜로설명 
+https://yeomko.tistory.com/13 
