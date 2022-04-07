@@ -2,3 +2,10 @@
 2. faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks-Paper
 3. 트랜스포머 캔들 생성
 4. T F T
+
+
+
+
+
+
+디텍션 설명 https://deepbaksuvision.github.io/Modu_ObjectDetection/
