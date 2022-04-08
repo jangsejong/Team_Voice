@@ -1,4 +1,4 @@
-1. 어텐션 이즈 올 유 니드
+1. Attention is all you need
 2. faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks-Paper
 3. Using Deep Learning Neural Networks and Candlestick Chart Representation to Predict Stock Market
 4. Deep Transformer Models for Time Series Forecasting 
@@ -7,12 +7,12 @@
 
 
 
-디텍션 설명 https://deepbaksuvision.github.io/Modu_ObjectDetection/
-욜로설명 
+### 2 욜로 ###
 https://yeomko.tistory.com/13 
 https://leechamin.tistory.com/221
+디텍션 설명 https://deepbaksuvision.github.io/Modu_ObjectDetection/
 
  
-### 3 ###
+### 3 CNN캔들생성 ###
 논문설명 https://dataplay.tistory.com/36 
 논문구현 http://140.138.155.216/deepcandle/  
