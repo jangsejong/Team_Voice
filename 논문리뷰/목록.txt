@@ -1,7 +1,8 @@
 1. Attention is all you need
 2. faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks-Paper
 3. Using Deep Learning Neural Networks and Candlestick Chart Representation to Predict Stock Market
-4. Deep Transformer Models for Time Series Forecasting 
+4. Temporal Fusion Transformers for Interpretable Multi horizon Time Series Forecasting 
+
 
 
 
@@ -16,3 +17,9 @@ https://leechamin.tistory.com/221
 ### 3 CNN캔들생성 ###
 논문설명 https://dataplay.tistory.com/36 
 논문구현 http://140.138.155.216/deepcandle/  
+
+
+### 4 TFT 시계열예측 ###
+https://www.koreascience.or.kr/article/CFKO202125036063273.pdf
+코드구현 https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/stallion.html
+         https://doheon.github.io/%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84/time-series/ci-4.transformer-post/
