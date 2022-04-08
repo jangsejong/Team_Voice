@@ -1,7 +1,7 @@
 1. 어텐션 이즈 올 유 니드
 2. faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks-Paper
 3. Using Deep Learning Neural Networks and Candlestick Chart Representation to Predict Stock Market
-4. T F T
+4. Deep Transformer Models for Time Series Forecasting 
 
 
 
