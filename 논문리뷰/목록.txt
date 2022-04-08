@@ -14,4 +14,5 @@ https://leechamin.tistory.com/221
 
  
 ### 3 ###
-https://dataplay.tistory.com/36
+논문설명 https://dataplay.tistory.com/36 
+논문구현 http://140.138.155.216/deepcandle/  
