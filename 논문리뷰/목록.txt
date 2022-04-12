@@ -17,6 +17,7 @@ https://leechamin.tistory.com/221
 ### 3 CNN캔들생성 ###
 논문설명 https://dataplay.tistory.com/36 
 논문구현 http://140.138.155.216/deepcandle/  
+코드구현 https://github.com/jason887/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market
 
 
 ### 4 TFT 시계열예측 ###
