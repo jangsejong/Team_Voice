@@ -30,3 +30,4 @@ https://leechamin.tistory.com/221
 논문설명 https://www.koreascience.or.kr/article/CFKO202125036063273.pdf
 코드구현 https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/stallion.html
         https://doheon.github.io/%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84/time-series/ci-4.transformer-post/
+
