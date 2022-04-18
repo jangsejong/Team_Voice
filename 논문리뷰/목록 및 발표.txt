@@ -1,11 +1,11 @@
 
 
-################### 논문순서 ####################
+################### 논문순서 ######################################################################
 1. Attention is all you need                                                                         (발표) 세종 -> 이한
 2. faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks-Paper               (발표) 지희 -> 소담
 3. Using Deep Learning Neural Networks and Candlestick Chart Representation to Predict Stock Market  (발표) 이한 
 4. Temporal Fusion Transformers for Interpretable Multi horizon Time Series Forecasting              (발표) 세종
-################################################
+###################################################################################################
 
 
 
