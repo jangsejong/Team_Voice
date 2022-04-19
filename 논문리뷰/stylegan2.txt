@@ -1,0 +1,6 @@
+https://prowiseman.tistory.com/entry/StyleGAN-StyleGAN2
+https://happy-jihye.github.io/gan/gan-7/
+https://badlec.tistory.com/292   (구조)
+https://velog.io/@skm0626/Analyzing-and-Improving-the-Image-Quality-of-StyleGANStyleGAN2   --> 깔끔 정리
+https://iamseungjun.tistory.com/6  (확인 check/ 매우 잘 정리되어 있음)
+https://kozistr.tech/StyleGANv2/    2.2 instance normalization revisited
