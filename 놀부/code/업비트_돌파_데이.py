@@ -470,3 +470,5 @@ while True:
     try_trailling_stop(tickers, prices, targets, noises, holdings, high_prices)
     time.sleep(INTERVAL)
 
+
+    
