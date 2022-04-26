@@ -10,24 +10,22 @@
 
 
 
-
-
-### 2 욜로 ###
+##### 2 욜로 #####
 https://yeomko.tistory.com/13 
 https://leechamin.tistory.com/221
 디텍션 설명 https://deepbaksuvision.github.io/Modu_ObjectDetection/
 
  
-### 3 CNN캔들생성 ###
+ 
+##### 3 CNN캔들생성 #####
 논문설명 https://dataplay.tistory.com/36
         https://www.edwith.org/deeplearningchoi/joinLectures/10979
 논문구현 http://140.138.155.216/deepcandle/  
 코드구현 https://github.com/jason887/Using-Deep-Learning-Neural-Networks-and-Candlestick-Chart-Representation-to-Predict-Stock-Market
         
 
+##### 4 Mask R CNN  #####
+논문설명 
+코드구현 
 
-### 4 Mask R CNN  ###
-논문설명 https://www.koreascience.or.kr/article/CFKO202125036063273.pdf
-코드구현 https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/stallion.html
-        https://doheon.github.io/%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84/time-series/ci-4.transformer-post/
 
