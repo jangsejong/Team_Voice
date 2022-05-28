@@ -4,7 +4,6 @@ from ccxt.base.errors import *
 import threading
 import datetime
 from pandas import DataFrame
-
 import logging
 import inspect
 logger = logging.getLogger("logger")
