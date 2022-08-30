@@ -19,7 +19,6 @@ DUAL_NOISE_LIMIT = 0.6
 LARRY_K = 0.4
 DEBUG = False
 
-
 def threadable(fn):
     def run(*k, **kw):
         th = threading.Thread(target=fn, args=k, kwargs=kw)
