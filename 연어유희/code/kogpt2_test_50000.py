@@ -183,4 +183,4 @@ with torch.no_grad():
         print("유희지희 > {}".format(a.strip()))
         
         
-      
+ 
