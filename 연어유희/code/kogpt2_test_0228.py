@@ -19,6 +19,7 @@ model = GPT2LMHeadModel.from_pretrained('skt/kogpt2-base-v2')
 # generated = tokenizer.decode(gen_ids[0,:].tolist())
 # print(generated)
 
+
 import numpy as np
 import pandas as pd
 import torch
