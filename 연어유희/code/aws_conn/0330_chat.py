@@ -28,7 +28,6 @@ model.eval()
 import google_stt
 import google_tts
 import aws_sql
-
 import playsound
 
 sent = '0'
