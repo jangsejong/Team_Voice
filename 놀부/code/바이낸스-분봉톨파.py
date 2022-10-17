@@ -6,6 +6,7 @@ import datetime
 from pandas import DataFrame
 import logging
 import inspect
+
 logger = logging.getLogger("logger")
 logger.setLevel(logging.DEBUG)
 stream_handler = logging.StreamHandler()
