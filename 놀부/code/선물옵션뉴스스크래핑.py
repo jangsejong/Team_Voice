@@ -14,3 +14,4 @@ for ticker in stock.get_market_ticker_list():
       
 df = stock.get_market_ohlcv("20210331", "20220331", "005930") # ('시작일','종료일','티커')
 print(df.head(3))
+
