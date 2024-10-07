@@ -1,7 +1,6 @@
 import torch
 from transformers import GPT2LMHeadModel
 from transformers import PreTrainedTokenizerFast
-
 import numpy as np
 import pandas as pd
 import torch
